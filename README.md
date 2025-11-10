@@ -23,8 +23,8 @@ We were provided with three main files:
 
 ## 🗂️ Dataset Details
 
-* **Training set:** \100,000 rows × 76 columns
-* **Test set:** \10,000 rows × 75 columns
+* **Training set:** 100,000 rows × 76 columns
+* **Test set:** 10,000 rows × 75 columns
 * **Target variable:** `target` (1 = infected, 0 = not infected)
 * **Features:** System hardware, OS configurations, display settings, security measures, etc.
 
